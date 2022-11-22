@@ -1,3 +1,3 @@
 My LeetCode solutions
 
-[https://leetcode.com/finleygn/](Profile)
+[Profile](https://leetcode.com/finleygn/)
