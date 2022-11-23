@@ -27,8 +27,9 @@ function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
 export const solution = isSameTree;
 
 
-// Simpler recursive
-
+/**
+ * O(n) Time | O(n) Space
+ */
 function isSameTree_rc(p: TreeNode | null, q: TreeNode | null): boolean {
   if(!p && !q) return true;
   if(!p || !q) return false;
