@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/binary-tree-level-order-traversal/
-// Difficulty: Easy
+// Difficulty: Medium
 
 import TreeNode from '../lib/TreeNode.ts';
 
